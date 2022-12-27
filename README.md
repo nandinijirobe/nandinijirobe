@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-![github_banner](https://user-images.githubusercontent.com/95235229/184547726-0b0348d9-e1c3-4009-929d-5545bb4510dd.jpg)
+![github_banner](https://user-images.githubusercontent.com/95235229/209614480-5a66db82-878b-4642-b671-e5bc6859c5b4.png)
 
 
 ### Hey there! 🙋‍♀️
