@@ -3,7 +3,7 @@
 ### Hey there, I'm Nandini! Welcome to my GitHub Profile! 🙋‍♀️
 - 🎓 I'm a 3rd-year Undergraduate Computer Science student at the [University of Illinois Chicago](https://cs.uic.edu/)
 - 🔍 I have research experience in Natural Language Processing and Computer Vision
-- ✏️ Currently learning about Artificial Intelligence and Machine Learning
+- ✏️ Currently working on a Machine Learning and working with Allstate
 - 🤖 Interested in Robotics Software Engineering and Machine Learning Engineering
 
 
