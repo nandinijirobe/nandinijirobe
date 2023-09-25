@@ -5,6 +5,7 @@
 - 🔍 I have research experience in Natural Language Processing and Computer Vision
 - ✏️ Currently working on a Machine Learning and working with Allstate
 - 🤖 Interested in Robotics Software Engineering and Machine Learning Engineering
+- 💻 I have worked with the following programming languages: Java, C, C++, Python, Javascript, HTML, CSS 
 
 
 
