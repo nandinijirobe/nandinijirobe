@@ -1,10 +1,10 @@
 ![github_banner](https://user-images.githubusercontent.com/95235229/209614480-5a66db82-878b-4642-b671-e5bc6859c5b4.png)
 
 ### Hey there, I'm Nandini! Welcome to my GitHub Profile! 🙋‍♀️
-- 🎓 I'm a 3rd-year Undergraduate Computer Science student at the [University of Illinois Chicago](https://cs.uic.edu/)
+- 🎓 I'm a 4th-year Undergraduate Computer Science student at the [University of Illinois Chicago](https://cs.uic.edu/) and a Computational Biology Teaching Assistant!
 - 🔍 I have research experience in Natural Language Processing and Computer Vision
-- ✏️ Currently working on a Machine Learning and working with Allstate
-- 🤖 Interested in Robotics Software Engineering and Machine Learning Engineering
+- ✏️ I have worked on Machne Learning projects with Allstate and the New York Botanical Garden
+- 🤖 Interested in Robotics, Software Engineering and Machine Learning Engineering
 - 💻 I have worked with the following programming languages: Java, C, C++, Python, Javascript, HTML, CSS 
 
 
