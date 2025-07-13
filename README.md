@@ -1,4 +1,4 @@
-![github_banner](github_banner_new2.gif)
+![github_banner](banner.gif)
 
 ### Hey there, I'm Nandini! Welcome to my GitHub Profile! 🙋‍♀️
 - 🎓 I'm a 1st-year Graduate Computer Science student at the [University of Illinois Chicago](https://cs.uic.edu/) and Teaching Assistant!
