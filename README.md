@@ -1,11 +1,49 @@
 ![github_banner](banner.gif)
 
-### Hey there, I'm Nandini! Welcome to my GitHub Profile! 🙋‍♀️
-- 🎓 I'm a 1st-year Graduate Computer Science student at the [University of Illinois Chicago](https://cs.uic.edu/) and Teaching Assistant!
-- 🔍 I have research experience in Natural Language Processing and Computer Vision
-- ✏️ I have worked on Machne Learning projects with Allstate and the New York Botanical Garden
-- 🤖 Interested in Robotics, Software Engineering and Machine Learning Engineering
-- 💻 I have worked with the following programming languages: Java, C, C++, Python, Javascript, HTML, CSS 
+# 👋 Hi, I'm Nandini
+
+🎓 I'm a Master's student in Computer Science at the University of Illinois Chicago (UIC), and a Teaching Assistant for Python and Advanced Data Structures.
+
+---
+
+## 💻 Tech Stack & Languages
+Java • C • C++ • C# • Python • JavaScript • HTML • CSS • Ruby • F# • SQL  
+Full-stack development • Machine Learning • NLP • Data Science
+
+---
+
+## 🔬 Research & Teaching
+- Research experience in **Natural Language Processing** and **Computer Vision** at UIC's NLP Lab
+- Teaching Assistant for:
+  - **Advanced Data Structures**
+  - **Python Programming**
+  - **Women in Engineering Summer Program (WIESP)**
+
+---
+
+## 🧠 Applied Experience
+- Built ML solutions with **Allstate** and the **New York Botanical Garden**
+- Completed the **Responsible Data Science** course  
+- Participant in the **Break Through Tech AI Program**
+
+---
+
+## 💼 Internships
+- **AbbVie** – Full-stack web development
+- **UI Health** – Developed GPT-integrated UI features and user engagement tools
+
+---
+
+## 🌱 Currently Exploring
+- 🤖 Robotics  
+- 🕶️ Virtual Reality
+
+---
+
+## 🔗 Let's Connect!
+[LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://your-portfolio.com) • [Email](mailto:your-email@domain.com)
+
+
 
 
 
