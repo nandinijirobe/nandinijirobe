@@ -1,6 +1,6 @@
 ![github_banner](banner.gif)
 
-# 👋 Hi, I'm Nandini
+# 👋 Hello! Welcome to my GitHub profile :D
 
 🎓 Master’s student in Computer Science at UIC  
 🧑‍🏫 TA for Python, Advanced Data Structures, and the Women in Engineering Summer Program  
